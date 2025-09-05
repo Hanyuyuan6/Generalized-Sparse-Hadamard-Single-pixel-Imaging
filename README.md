@@ -1,4 +1,4 @@
-# Sparse Hadamard Single-pixel Imaging Using \( H_{64} \) Basis
+# The demo of sparse Hadamard single-pixel imaging using \( H_{64} \) basis
 
 ## Overview
 
